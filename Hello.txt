@@ -3,4 +3,5 @@ hello people!
 3333
 4444
 555 push by user 222222
-666 push by user 111
+666 push by user 111i
+777 push by user 222, test pull command ,not fetch and merge
